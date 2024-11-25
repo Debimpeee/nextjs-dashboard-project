@@ -1,5 +1,5 @@
 'use client';
-import { updateInvoice, State } from '@/app/lib/action';
+import { updateInvoice, State } from '@/app/lib/actions';
 import { useActionState } from 'react';
 import { CustomerField, InvoiceForm } from '@/app/lib/definitions';
 import {

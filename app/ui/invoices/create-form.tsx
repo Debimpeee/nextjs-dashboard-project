@@ -1,5 +1,5 @@
 'use client';
-import { createInvoice, State } from '@/app/lib/action';
+import { createInvoice, State } from '@/app/lib/actions';
 import { useActionState } from 'react';
 import { CustomerField } from '@/app/lib/definitions';
 import Link from 'next/link';
